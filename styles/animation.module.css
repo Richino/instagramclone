@@ -1,0 +1,4 @@
+.animation {
+    transition: 1s;
+    transition-property: left;
+}

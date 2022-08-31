@@ -1,0 +1,42 @@
+[
+    {
+        "username": "marko107",
+        "userimage": "/users/user_1.jpg",
+        "post": {
+            "image": "/images/image_1.jpg",
+            "likes": 235,
+            "comments": 15,
+            "posted": "2d"
+        }
+    },
+    {
+        "username": "bossladysamantha",
+        "userimage": "/users/user_2.jpg",
+        "post": {
+            "image": "/images/image_2.jpg",
+            "likes": 235,
+            "comments": 21,
+            "posted": "2d"
+        }
+    },
+    {
+        "username": "jamilhenry",
+        "userimage": "/users/user_3.jpg",
+        "post": {
+            "image": "/images/image_3.jpg",
+            "likes": 235,
+            "comments": 38,
+            "posted": "2d"
+        }
+    },
+    {
+        "username": "Karenbecker500",
+        "userimage": "/users/user_4.jpg",
+        "post": {
+            "image": "/images/image_4.jpg",
+            "likes": 235,
+            "comments": 7,
+            "posted": "2d"
+        }
+    }
+]
